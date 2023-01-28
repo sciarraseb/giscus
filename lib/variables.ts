@@ -24,6 +24,7 @@ export const availableThemes = [
   'dark_dimmed',
   'transparent_dark',
   'preferred_color_scheme',
+  'cobalt',
   'custom',
 ] as const;
 
